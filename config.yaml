@@ -1,8 +1,8 @@
 baseurl: https://example.com
-languageCode: en-us
+languageCode: zh-CN
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: GGan
 
 favicon: /static/favicon.ico
 enableEmoji: true
