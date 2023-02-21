@@ -1,5 +1,5 @@
-baseurl: https://example.com
-languageCode: zh-CN
+baseurl: https://example.org
+languageCode: en
 theme: hugo-theme-stack
 paginate: 5
 title: GGan
@@ -13,12 +13,12 @@ languages:
         languageName: English
         title: Example Site
         description: Example description
-        weight: 1
+        weight: 2
     zh-cn:
         languageName: 中文
         title: GGan
         description: 演示说明
-        weight: 2
+        weight: 1
     ar:
         languageName: عربي
         languagedirection: rtl
