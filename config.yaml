@@ -13,12 +13,12 @@ languages:
         languageName: English
         title: Example Site
         description: Example description
-        weight: 2
+        weight: 1
     zh-cn:
         languageName: 中文
         title: GGan
         description: 演示说明
-        weight: 1
+        weight: 2
     ar:
         languageName: عربي
         languagedirection: rtl
